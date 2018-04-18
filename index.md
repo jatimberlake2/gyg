@@ -13,7 +13,7 @@ src="https://www.youtube.com/embed/dQw4w9WgXcQ">
 <center>Justin 'Anthony' Timberlake</center>  
 <center>Shawn Mitchell</center>  
 <center>Isuru Nanayakkara</center>  
-<center>Jonathon Luetze</center>  
+<center>Jonathan Luetze</center>  
 <center>Drew Vivian</center>  
 
 
