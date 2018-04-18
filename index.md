@@ -17,7 +17,7 @@ src="https://www.youtube.com/embed/dQw4w9WgXcQ">
 <center>Drew Vivian</center>  
 
 
-### <center>Documentation</center>
+#### Documentation
 
 [Design Document](../gyg/Design.pdf)  
 [Design Presentation](../gyg/Gyg Design Presentation.pptx)  
