@@ -4,23 +4,20 @@ Gyg will create an easy market for people looking for side jobs and those with s
 jobs. It will handle the transactions and also help create a safe way for people to find jobs or
 workers for their jobs. 
 
-### Video Goes Here
-
-<iframe width="560" height="315" frameborder="0"
+<center><iframe width="560" height="315" frameborder="0"
 src="https://www.youtube.com/embed/dQw4w9WgXcQ">
-</iframe>
+</iframe></center>
 
-### Members
+### <center>Members</center>
 
-```markdown
-Justin 'Anthony' Timberlake
-Shawn Mitchell
-Isuru Nanayakkara
-Jonathon Luetze
-Drew Vivian
-```
+####<center>Justin 'Anthony' Timberlake</center>
+####<center>Shawn Mitchell</center>
+####<center>Isuru Nanayakkara</center>
+####<center>Jonathon Luetze</center>
+####<center>Drew Vivian</center>
 
-### Documentation
+
+### <center>Documentation</center>
 
 ##### [Design Document](../gyg/Design.pdf)
 ##### [Design Presentation](../gyg/Gyg Design Presentation.pptx)
