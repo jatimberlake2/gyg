@@ -6,7 +6,7 @@ workers for their jobs.
 
 ### Video Goes Here
 
-<iframe width="420" height="315" text-align="center"
+<iframe display="block" margin-left="auto" margin-right="auto" width="80%"
 src="https://www.youtube.com/embed/dQw4w9WgXcQ">
 </iframe>
 
