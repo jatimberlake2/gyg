@@ -19,8 +19,8 @@ src="https://www.youtube.com/embed/dQw4w9WgXcQ">
 
 ### <center>Documentation</center>
 
-##### [Design Document](../gyg/Design.pdf)
-##### [Design Presentation](../gyg/Gyg Design Presentation.pptx)
-##### [Requirements Document](../gyg/Requirements.pdf)
-##### [Requirements Presentation](../gyg/Gyg Presentation Slides.pptx)
-##### [Source Code](https://github.com/gyg-inc/gyg-android)
+[Design Document](../gyg/Design.pdf)  
+[Design Presentation](../gyg/Gyg Design Presentation.pptx)  
+[Requirements Document](../gyg/Requirements.pdf)  
+[Requirements Presentation](../gyg/Gyg Presentation Slides.pptx)  
+[Source Code](https://github.com/gyg-inc/gyg-android)  
