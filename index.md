@@ -4,6 +4,7 @@ Gyg will create an easy market for people looking for side jobs and those with s
 jobs. It will handle the transactions and also help create a safe way for people to find jobs or
 workers for their jobs. 
 
+####Video Goes Here
 
 ### Members
 
@@ -12,3 +13,7 @@ Shawn Mitchell
 Isuru Nanayakkara
 Jonathon Luetze
 Drew Vivian
+
+###Documentation
+
+[Design Document](../gyg/Design.pdf)
