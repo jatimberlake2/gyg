@@ -10,17 +10,17 @@ src="https://www.youtube.com/embed/dQw4w9WgXcQ">
 
 ### <center>Developers</center>
 
-##### <center>Justin 'Anthony' Timberlake</center>  
-##### <center>Shawn Mitchell</center>  
-##### <center>Isuru Nanayakkara</center>  
-##### <center>Jonathon Luetze</center>  
+##### <center>Justin 'Anthony' Timberlake  </center>
+##### <center>Shawn Mitchell  </center>
+##### <center>Isuru Nanayakkara  </center>
+##### <center>Jonathon Luetze  </center>
 ##### <center>Drew Vivian</center>
 
 
 ### <center>Documentation</center>
 
-##### [Design Document](../gyg/Design.pdf)  
-##### [Design Presentation](../gyg/Gyg Design Presentation.pptx)  
-##### [Requirements Document](../gyg/Requirements.pdf)  
-##### [Requirements Presentation](../gyg/Gyg Presentation Slides.pptx)  
-##### [Source Code](https://github.com/gyg-inc/gyg-android)  
+##### [Design Document](../gyg/Design.pdf)
+##### [Design Presentation](../gyg/Gyg Design Presentation.pptx)
+##### [Requirements Document](../gyg/Requirements.pdf)
+##### [Requirements Presentation](../gyg/Gyg Presentation Slides.pptx)
+##### [Source Code](https://github.com/gyg-inc/gyg-android)
