@@ -19,7 +19,11 @@ Drew Vivian
 ### Documentation
 
 [Design Document](../gyg/Design.pdf)
+
 [Design Presentation](../gyg/Gyg Design Presentation.pptx)
+
 [Requirements Document](../gyg/Requirements.pdf)
+
 [Requirements Presentation](../gyg/Gyg Presentation Slides.pptx)
+
 
