@@ -22,12 +22,12 @@ Drew Vivian
 
 ### Documentation
 
-#### [Design Document](../gyg/Design.pdf)
+##### [Design Document](../gyg/Design.pdf)
 
-#### [Design Presentation](../gyg/Gyg Design Presentation.pptx)
+##### [Design Presentation](../gyg/Gyg Design Presentation.pptx)
 
-#### [Requirements Document](../gyg/Requirements.pdf)
+##### [Requirements Document](../gyg/Requirements.pdf)
 
-#### [Requirements Presentation](../gyg/Gyg Presentation Slides.pptx)
+##### [Requirements Presentation](../gyg/Gyg Presentation Slides.pptx)
 
-#### [Source Code](https://github.com/gyg-inc/gyg-android)
+##### [Source Code](https://github.com/gyg-inc/gyg-android)
