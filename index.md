@@ -7,12 +7,8 @@ workers for their jobs.
 
 ### Members
 
-```markdown
-
 Justin 'Anthony' Timberlake
 Shawn Mitchell
 Isuru Nanayakkara
 Jonathon Luetze
 Drew Vivian
-
-```
