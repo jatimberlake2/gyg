@@ -6,7 +6,7 @@ workers for their jobs.
 
 ```markdown
 
-####Video Goes Here
+#### Video Goes Here
 
 ### Members
 
@@ -16,7 +16,7 @@ Isuru Nanayakkara
 Jonathon Luetze
 Drew Vivian
 
-###Documentation
+### Documentation
 
 [Design Document](../gyg/Design.pdf)
 
