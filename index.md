@@ -10,11 +10,11 @@ src="https://www.youtube.com/embed/dQw4w9WgXcQ">
 
 ### <center>Members</center>
 
-####<center>Justin 'Anthony' Timberlake</center>
-####<center>Shawn Mitchell</center>
-####<center>Isuru Nanayakkara</center>
-####<center>Jonathon Luetze</center>
-####<center>Drew Vivian</center>
+#### <center>Justin 'Anthony' Timberlake</center>
+#### <center>Shawn Mitchell</center>
+#### <center>Isuru Nanayakkara</center>
+#### <center>Jonathon Luetze</center>
+#### <center>Drew Vivian</center>
 
 
 ### <center>Documentation</center>
