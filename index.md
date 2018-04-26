@@ -10,7 +10,7 @@ src="https://www.youtube.com/embed/dQw4w9WgXcQ">
 
 ### <center>Developers</center>
 
-<center>Justin 'Anthony' Timberlake</center>  
+<center>J. Anthony Timberlake</center>  
 <center>Shawn Mitchell</center>  
 <center>Isuru Nanayakkara</center>  
 <center>Jonathan Luetze</center>  
